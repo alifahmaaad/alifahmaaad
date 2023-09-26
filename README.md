@@ -68,7 +68,11 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alifahmaaad&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=alifahmaaad&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="125" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/alifahmaaad/alifahmaaad/output/snake.svg" alt="Snake animation" />
 
 ###
