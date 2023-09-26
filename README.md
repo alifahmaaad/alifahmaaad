@@ -1,8 +1,5 @@
 <h2 align="left">Hi 👋! My name is Ahmad Alif Sofian and I'm a Fullstack Developer</h2>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
